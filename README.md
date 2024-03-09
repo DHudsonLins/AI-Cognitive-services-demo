@@ -16,4 +16,4 @@ Leia mais sobre o Azure Cognitive services e como recuperar as chaves de conexã
 <br>https://accessibleai.dev/post/azure_cognitive_services/
 
 Execute script python no terminal via comando 
-<br>python aidemo/cognitive-services/samples/vision/visao_computacional.py
+<br>python aidemo/cognitive-services/azureai/redeneural/visao_computacional.py
