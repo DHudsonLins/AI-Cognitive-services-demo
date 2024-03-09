@@ -1,6 +1,6 @@
 # AI-Cognitive-services-demo
 
-O script de execução da demonstração do cognitive services se encontra no caminho <br>aidemo/cognitive-services/azureai/redeneural/visao_computacional.py
+<b>O script de execução da demonstração do cognitive services se encontra no caminho <br>aidemo/cognitive-services/azureai/redeneural/visao_computacional.py<b>
 <br>Para começar, crie e ative seu ambiente virtual 
 
 https://docs.python.org/3/library/venv.html 
